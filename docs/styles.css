@@ -55,7 +55,11 @@ table{
     border-spacing:0;
 }
 
+.doot-button-container {
+    text-align: center;
+}
+
 .doot-button {
-    width: 100px;
-    height: 100px;
+    width: 400px;
+    height: 400px;
 }
